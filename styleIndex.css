@@ -1,0 +1,92 @@
+
+#bloc_page
+{
+
+   margin:auto;
+   width: 900px;
+   background-color: #CCB9C3
+
+}
+
+/*En tête de la page*/
+header
+
+ {
+     position: relative;
+     background-color: landscape;
+     border: 3px solid #00005C ;
+    border-radius: 10px 10px;
+    box-shadow: 6px 6px 50px 10px #000000;
+    opacity: 0.8;
+    padding-bottom: 0px;
+    height:150px
+
+
+ }
+.logo
+
+ {
+   display:inline-block;
+   margin-bottom: 0%;
+
+
+}
+
+h1
+
+ {
+    display:inline-block;
+    position:absolute;
+    right:0px;
+    top:0px;
+    margin-bottom: 0%;
+    margin-right: 10%;
+    font-family: Impact, Charcoal, sans-serif;
+    text-transform: uppercase;
+    text-shadow: 20px 20px 3px #AF1812;
+    font-size: 70px
+
+
+
+
+}
+
+/*Corps de la page*/
+
+.inscrire
+ {
+   display:inline-block;
+
+
+}
+
+.modifier
+ {
+    display:inline-block;
+    margin-right: 15px;
+}
+
+.supprimer
+ {
+     display:inline-block;
+     margin-right: 15px;
+}
+
+.afficher
+ {
+   display:inline-block;
+   margin-right: 15px;
+}
+
+h2
+ {
+     border: 5px dashed #000047;
+     box-shadow: 1px 8px 29px 29px #807B7E;
+     border-radius: 6px 6px 6px 6px;
+     padding: 0% 0% 0% 0%;
+     width:900px;
+     text-align:center;
+     margin:auto;
+    width: 900px;
+
+ }
